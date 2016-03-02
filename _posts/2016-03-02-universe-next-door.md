@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:14:51.708Z'
-dateModified: '2016-03-02T17:14:21.785Z'
+datePublished: '2016-03-02T17:16:52.079Z'
+dateModified: '2016-03-02T17:14:59.780Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
@@ -24,7 +24,9 @@ _type: Article
 ---
 # Universe Next Door
 
-Bringing you Designer Toys, Art Items, and Collectibles from the deep reaches of fictional space. Listen, there's a hell of a good universe next door. Let's go.
+Bringing you Designer Toys, Art Items, and Collectibles from the deep reaches of fictional space. 
+
+_Listen, there's a hell of a good universe next door. Let's go._
 
 Universe Next Door is dedicated to providing a superior collector experience.
 
