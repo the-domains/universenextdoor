@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:37:50.054Z'
-dateModified: '2016-03-02T17:37:46.167Z'
+datePublished: '2016-03-02T17:38:36.867Z'
+dateModified: '2016-03-02T17:38:33.683Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
