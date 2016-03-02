@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:55:57.841Z'
-dateModified: '2016-03-02T17:55:57.545Z'
+datePublished: '2016-03-02T18:10:55.512Z'
+dateModified: '2016-03-02T18:10:32.295Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
