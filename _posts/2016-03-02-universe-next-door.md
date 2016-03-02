@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:38:36.867Z'
-dateModified: '2016-03-02T17:38:33.683Z'
+datePublished: '2016-03-02T17:42:52.220Z'
+dateModified: '2016-03-02T17:42:23.980Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
@@ -33,7 +33,7 @@ Universe Next Door is dedicated to providing a superior collector experience.
 
 Contact us at **[universe.next.door@gmail.com ][0]**
 
-Follow us on **[facebook][1]**and **[twitter][2]**
+Follow us on [**facebook**][1] and [**twitter**][2]
 
 [0]: mailto: universe.next.door@gmail.com
 [1]: https://www.facebook.com/universenextdoor
