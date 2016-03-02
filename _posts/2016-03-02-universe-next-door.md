@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T16:59:33.405Z'
-dateModified: '2016-03-02T16:59:17.614Z'
+datePublished: '2016-03-02T17:14:51.708Z'
+dateModified: '2016-03-02T17:14:21.785Z'
 title: Universe Next Door
 author: []
+sourcePath: _posts/2016-03-02-universe-next-door.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-universe-next-door.md
-published: true
 url: universe-next-door/index.html
 _type: Article
 
