@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:24:17.719Z'
-dateModified: '2016-03-02T17:24:12.287Z'
+datePublished: '2016-03-02T17:25:55.459Z'
+dateModified: '2016-03-02T17:25:08.812Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
@@ -34,6 +34,6 @@ Contact us at **[universe.next.door@gmail.com][0]**
 
 Follow us on **[facebook][1]**and **[twitter][2]**
 
-[0]: null
+[0]: mailto:universe.next.door@gmail.com
 [1]: https://www.facebook.com/universenextdoor/?ref=hl
 [2]: https://twitter.com/UniverseNext
