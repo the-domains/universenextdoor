@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:42:52.220Z'
-dateModified: '2016-03-02T17:42:23.980Z'
+datePublished: '2016-03-02T17:43:43.644Z'
+dateModified: '2016-03-02T17:42:59.904Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
@@ -31,7 +31,7 @@ _Listen, there's a hell of a good universe next door. Let's go._
 
 Universe Next Door is dedicated to providing a superior collector experience.
 
-Contact us at **[universe.next.door@gmail.com ][0]**
+Contact us at **[universe.next.door@gmail.com][0]**
 
 Follow us on [**facebook**][1] and [**twitter**][2]
 
