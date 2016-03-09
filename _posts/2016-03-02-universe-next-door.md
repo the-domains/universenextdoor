@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-02T18:19:31.003Z'
-dateModified: '2016-03-02T18:19:30.726Z'
+description: "Bringing you Designer Toys, Art Items, and Collectibles from the deep reaches of fictional space.\_"
+datePublished: '2016-03-09T14:59:43.986Z'
+dateModified: '2016-03-09T14:55:31.212Z'
 title: Universe Next Door
 author: []
 sourcePath: _posts/2016-03-02-universe-next-door.md
@@ -31,10 +31,13 @@ _Listen, there's a hell of a good universe next door. Let's go._
 
 Universe Next Door is dedicated to providing a superior collector experience.
 
-Contact us at **[universe.next.door@gmail.com][0]**
+Visit the online store at [**www.universenextdoor.toys**][0]
 
-Follow us on [**facebook**][1] and [**twitter**][2]
+Contact us at **[universe.next.door@gmail.com][1]**
 
-[0]: mailto: universe.next.door@gmail.com
-[1]: https://www.facebook.com/universenextdoor
-[2]: https://twitter.com/UniverseNext
+Follow us on [**facebook**][2] and [**twitter**][3]
+
+[0]: www.universenextdoor.toys
+[1]: mailto: universe.next.door@gmail.com
+[2]: https://www.facebook.com/universenextdoor
+[3]: https://twitter.com/UniverseNext
